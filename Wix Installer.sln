@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wix Installer", "Wix Installer\Wix Installer.csproj", "{8094726B-A88D-4764-B767-4B139837A4D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wix InstallerTests", "Wix InstallerTests\Wix InstallerTests.csproj", "{59198023-C38B-48D1-9973-09CB9A2B6753}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|arm = Debug|arm
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|arm = Release|arm
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8094726B-A88D-4764-B767-4B139837A4D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8094726B-A88D-4764-B767-4B139837A4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8094726B-A88D-4764-B767-4B139837A4D0}.Debug|arm.ActiveCfg = Debug|Any CPU
+		{8094726B-A88D-4764-B767-4B139837A4D0}.Debug|arm.Build.0 = Debug|Any CPU
+		{8094726B-A88D-4764-B767-4B139837A4D0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8094726B-A88D-4764-B767-4B139837A4D0}.Debug|x64.Build.0 = Debug|Any CPU
+		{8094726B-A88D-4764-B767-4B139837A4D0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8094726B-A88D-4764-B767-4B139837A4D0}.Debug|x86.Build.0 = Debug|Any CPU
+		{8094726B-A88D-4764-B767-4B139837A4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8094726B-A88D-4764-B767-4B139837A4D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8094726B-A88D-4764-B767-4B139837A4D0}.Release|arm.ActiveCfg = Release|Any CPU
+		{8094726B-A88D-4764-B767-4B139837A4D0}.Release|arm.Build.0 = Release|Any CPU
+		{8094726B-A88D-4764-B767-4B139837A4D0}.Release|x64.ActiveCfg = Release|Any CPU
+		{8094726B-A88D-4764-B767-4B139837A4D0}.Release|x64.Build.0 = Release|Any CPU
+		{8094726B-A88D-4764-B767-4B139837A4D0}.Release|x86.ActiveCfg = Release|Any CPU
+		{8094726B-A88D-4764-B767-4B139837A4D0}.Release|x86.Build.0 = Release|Any CPU
+		{59198023-C38B-48D1-9973-09CB9A2B6753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59198023-C38B-48D1-9973-09CB9A2B6753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59198023-C38B-48D1-9973-09CB9A2B6753}.Debug|arm.ActiveCfg = Debug|Any CPU
+		{59198023-C38B-48D1-9973-09CB9A2B6753}.Debug|arm.Build.0 = Debug|Any CPU
+		{59198023-C38B-48D1-9973-09CB9A2B6753}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{59198023-C38B-48D1-9973-09CB9A2B6753}.Debug|x64.Build.0 = Debug|Any CPU
+		{59198023-C38B-48D1-9973-09CB9A2B6753}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{59198023-C38B-48D1-9973-09CB9A2B6753}.Debug|x86.Build.0 = Debug|Any CPU
+		{59198023-C38B-48D1-9973-09CB9A2B6753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59198023-C38B-48D1-9973-09CB9A2B6753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59198023-C38B-48D1-9973-09CB9A2B6753}.Release|arm.ActiveCfg = Release|Any CPU
+		{59198023-C38B-48D1-9973-09CB9A2B6753}.Release|arm.Build.0 = Release|Any CPU
+		{59198023-C38B-48D1-9973-09CB9A2B6753}.Release|x64.ActiveCfg = Release|Any CPU
+		{59198023-C38B-48D1-9973-09CB9A2B6753}.Release|x64.Build.0 = Release|Any CPU
+		{59198023-C38B-48D1-9973-09CB9A2B6753}.Release|x86.ActiveCfg = Release|Any CPU
+		{59198023-C38B-48D1-9973-09CB9A2B6753}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {228B5A9A-F3C0-40A2-87C9-7272A8EE5A60}
+	EndGlobalSection
+EndGlobal
